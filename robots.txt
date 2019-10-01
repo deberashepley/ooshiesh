@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooteiyaigh.blog.md5.pl/sitemap.xml
